@@ -5,10 +5,10 @@ embeds: "*.png"
 materials: [""]
 ...
 
-#Introdução:
+# Introdução:
 Neste projeto, as crianças aprenderão sobre posicionamente CSS construindo seu próprio robô.
 
-#Recursos Online
+# Recursos Online
 
 Nós recomendamos usar o [trinket](https://trinket.io/) para escrever HTML & CSS online. Este projeto contém os seguintes trinkets:
 
